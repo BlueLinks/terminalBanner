@@ -1,0 +1,9 @@
+# LXC Container Banner Template
+# Variables available:
+# ${SEPARATOR}, ${TIMESTAMP}, ${CONTAINER_NAME}
+# ${SERVICE_NAME}, ${SERVICE_PORT}, ${SERVICE_URL}, ${SERVICE_DESC}
+# ${LAN_IP}, ${CPU_USAGE}, ${MEMORY_USAGE}
+
+# This template is sourced as a function that receives variables
+# and outputs the formatted banner
+

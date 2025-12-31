@@ -1,0 +1,9 @@
+# Debian/Ubuntu/DietPi Banner Template
+# Variables available:
+# ${SEPARATOR}, ${TIMESTAMP}, ${HOSTNAME}, ${OS_VERSION}, ${UPTIME}
+# ${CPU_TEMP}, ${LAN_IP}, ${DEVICE_MODEL}
+# ${CPU_USAGE}, ${MEMORY_USAGE}, ${DISK_USAGE}
+
+# This template is sourced as a function that receives variables
+# and outputs the formatted banner
+
